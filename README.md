@@ -16,8 +16,8 @@ Build an end-to-end recommendation system using:
 - ✅ Matrix Factorization
 - ✅ Embedding Size Experiments
 - ✅ Two-Tower Baseline
-- ⏳ Metadata Integration
-- ⏳ MLflow
+- ✅ Metadata Integration
+- ✅ MLflow
 - ⏳ Qdrant
 - ⏳ FastAPI
 - ⏳ Docker
